@@ -1,109 +1,11 @@
 {
  "posts": [
   {
-   "id": "six-2026-08-12-2",
-   "epoch": 1786546800,
-   "when": "2026-08-12T15:00:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/f08-sixtabs.jpg",
-   "message": "Going out alone in a city you don't know yet is one of the best ways to meet it. A few things that make it easier.\n\nPick the early show. Arriving at opening hour means space, staff who have time to talk, and a room that fills up around you.\n\nTell someone where you're going — the venue name, not just the neighborhood.\n\nSit at the bar, not at a table. Bars are built for one.\n\nSort the ride home before the first drink, and keep the venue address saved in the local language.\n\nLeave when you want to. Nobody is keeping score.\n\nFind what's on tonight, wherever you are: events.lat"
-  },
-  {
-   "id": "gen-2026-08-21-154",
-   "epoch": 1787272200,
-   "when": "2026-08-21T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/peru.jpg",
-   "message": "El 28 y 29 de julio, el Perú celebra su independencia. Fiestas Patrias es más que una fecha: es todo un país mirándose a sí mismo — la bandera, el himno, la comida, el orgullo que va de la costa a los Andes y a la selva. Esta la vivimos con respeto. Guarda las fechas y descubre qué pasa cerca de ti: events.lat"
-  },
-  {
-   "id": "six-2026-08-21-5",
-   "epoch": 1787324400,
-   "when": "2026-08-21T15:00:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/tango.jpg",
-   "message": "Planear un viaje alrededor de un festival cambia el viaje entero. Un ejemplo concreto.\n\nBuenos Aires, del 19 de agosto al 1 de septiembre: el Tango BA Festival y Mundial. Entrada libre, 35 sedes y unos 1.500 artistas repartidos por la ciudad.\n\nEntrada libre no quiere decir entrar sin más: varias funciones piden reserva previa. Reservá con tiempo, elegí dos o tres sedes por día y dejá lugar para caminar de una a otra.\n\nLa ciudad se ordena sola alrededor del festival esos días. Vos solo tenés que llegar con las reservas hechas.\n\nProgramación y sedes en events.lat"
-  },
-  {
-   "id": "gen-2026-08-22-159",
-   "epoch": 1787358600,
-   "when": "2026-08-22T00:30:00Z",
+   "id": "sep-fb-2026-09-02",
+   "epoch": 1788309000,
+   "when": "2026-09-02T00:30:00Z",
    "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/rockinrio.jpg",
-   "message": "Follow the heartbeat far enough and it crosses into Brazil. In September, Rio takes the beat — Rock in Rio returns across two weekends, September 4–7 & 11–13. Mark it now; the details are coming. Save the dates: events.lat"
-  },
-  {
-   "id": "cali-salsa-fb-es",
-   "epoch": 1787526000,
-   "when": "2026-08-23T23:00:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/cali.jpg",
-   "message": "En Cali no se camina: se baila. 💃🕺\n\nDel Delirio a las salsotecas de Juanchito, esta es la capital mundial de la salsa y lo sabe. Cualquier noche es buena para salir a la pista.\n\nDinos en los comentarios: ¿tu salsoteca favorita de Cali? 👇\nEncuentra tu noche en events.lat\nVive la cultura."
-  },
-  {
-   "id": "gen-2026-08-24-166",
-   "epoch": 1787531400,
-   "when": "2026-08-24T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/rockinrio.jpg",
-   "message": "Sigue el latido lo suficiente y cruza a Brasil. En septiembre, Río toma el ritmo: Rock in Rio vuelve en dos fines de semana, del 4 al 7 y del 11 al 13 de septiembre. Anótalo ya; los detalles están por llegar. Guarda las fechas: events.lat"
-  },
-  {
-   "id": "gen-2026-08-25-170",
-   "epoch": 1787617800,
-   "when": "2026-08-25T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/rockinrio.jpg",
-   "message": "Siga a batida longe o bastante e ela atravessa para o Brasil. Em setembro, o Rio assume o ritmo: o Rock in Rio volta em dois fins de semana, 4 a 7 e 11 a 13 de setembro. Já anota; os detalhes estão chegando. Salve as datas: events.lat"
-  },
-  {
-   "id": "gen-2026-08-26-175",
-   "epoch": 1787704200,
-   "when": "2026-08-26T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/f09-twoonpurpose.jpg",
-   "message": "Here's how to use the culture calendar: don't wait for the ticket to sell out to find out it existed. Every week, the heartbeat lands somewhere new across the 18 countries we cover — a heritage festival, a hometown parade, a night that only happens once a year. Save what moves you, plan around it, show up. Start here: events.lat"
-  },
-  {
-   "id": "gen-2026-08-27-180",
-   "epoch": 1787790600,
-   "when": "2026-08-27T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/f02-groupchat.jpg",
-   "message": "Así se usa el calendario cultural: no esperes a que se agoten las entradas para enterarte de que el evento existía. Cada semana, el latido llega a un lugar nuevo entre los 18 países que cubrimos — un festival patrimonial, un desfile de barrio, una noche que ocurre una sola vez al año. Guarda lo que te mueva, organízate y ve. Empieza aquí: events.lat"
-  },
-  {
-   "id": "gen-2026-08-28-184",
-   "epoch": 1787877000,
-   "when": "2026-08-28T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/s08-invited.jpg",
-   "message": "Digital-nomad move: plan your week around what's happening, not just the wifi. One live show, one market, one long lunch — that's how a city stops being a backdrop and starts being yours. Pull the week's events: events.lat"
-  },
-  {
-   "id": "six-2026-08-28-8",
-   "epoch": 1787929200,
-   "when": "2026-08-28T15:00:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/fondas.jpg",
-   "message": "Si vas a estar en Chile en septiembre, conviene planificar con tiempo.\n\nLas Fiestas Patrias van del 18 al 21 de septiembre, con feriado el 18 y el 19. Para el Dieciocho el país entero cambia de ritmo: fondas, cueca, empanadas y asado en familia.\n\nTres cosas para resolver antes: el alojamiento, los traslados dentro del país y las entradas, si la fonda que elijas las pide.\n\nEsos días todo se mueve al mismo tiempo, así que la reserva temprana es media fiesta ganada.\n\nY una recomendación: si te invitan a un asado, acepta. Ahí está la fiesta de verdad.\n\nLo que hay en cada ciudad, en events.lat"
-  },
-  {
-   "id": "gen-2026-08-29-188",
-   "epoch": 1787963400,
-   "when": "2026-08-29T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/f01-nobodytold.jpg",
-   "message": "Sundays aren't dead in Latin America — they're the best day. Open-air markets, free concerts in the plaza, families out till late. Don't sleep through it. See what Sunday holds: events.lat"
-  },
-  {
-   "id": "gen-2026-08-30-192",
-   "epoch": 1788049800,
-   "when": "2026-08-30T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/f05-flowers.jpg",
-   "message": "Dica de nômade no Brasil: monte a semana pelo que está rolando, não só pelo wifi. Um show, uma feira, um almoço sem pressa — é assim que a cidade vira sua. Puxe a agenda da semana: events.lat"
-  },
-  {
-   "id": "gen-2026-08-31-197",
-   "epoch": 1788136200,
-   "when": "2026-08-31T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/ad/f05-flowers.jpg",
-   "message": "It's midnight, you're starving, one last stop. Tacos al pastor or a fresh arepa off the grill? No wrong answer, though your city might disagree. Tell us your pick in the comments, then hunt down your next street-food night: events.lat"
-  },
-  {
-   "id": "sep-fb-2026-09-01",
-   "epoch": 1788222600,
-   "when": "2026-09-01T00:30:00Z",
-   "image": "https://cdn.jsdelivr.net/gh/AlonDrilich/events-lat-media@main/card/rockinrio.jpg",
-   "message": "Planning Rock in Rio properly starts months out.\n\nRio de Janeiro, Sep 4–7 & 11–13. Two separate weekends, from $150 — which means either two trips, or one long one with the week in between to actually see the city.\n\nFlights and rooms get tight around those dates. Decide which weekend is yours, then build the trip around it.\n\nDates, prices and tickets: events.lat"
+   "message": "Planear bien el Rock in Rio empieza con meses de anticipación.\n\nRío de Janeiro, 4–7 y 11–13 de septiembre. Dos fines de semana distintos, desde $150: o son dos viajes, o uno largo con la semana del medio para conocer la ciudad de verdad.\n\nLos vuelos y el hospedaje se ponen difíciles en esas fechas. Elige tu fin de semana y arma el viaje alrededor.\n\nFechas, precios y entradas: events.lat"
   }
  ]
 }
